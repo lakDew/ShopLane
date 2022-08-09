@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+section{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sucess-logo{
+    width:400px;
+    margin-bottom: 30px;  
+}
+.sucess-logo img{
+    width:100%;
+    border-radius: 50%;
+}
+section p{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+section p:nth-child(3){
+    font-size: 20px;
+}
